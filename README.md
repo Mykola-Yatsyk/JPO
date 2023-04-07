@@ -1,4 +1,3 @@
-# Solution soon will 
 # Task from softserve (JAVA PAGE-OBJECT)
  
 In the main branch of the maven project, prepare a class with the checkEmail(String text) method to check the correctness of the email address. Use regular expressions to check email address.
